@@ -11,7 +11,12 @@ $(function() {
     })
 
     initUserInfo()
+<<<<<<< HEAD
         // 初始化用户的基本信息
+=======
+
+    // 初始化用户的基本信息
+>>>>>>> user
     function initUserInfo() {
         $.ajax({
             method: 'GET',
